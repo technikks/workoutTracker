@@ -9,7 +9,10 @@ A consumer will reach their fitness goals more quickly when they track their wor
 (https://workout-tracker-bootcamp-hw17.herokuapp.com/)
 
 
-## NPM Packages
+## Technolies Used
+* HTML
+* CSS
+* JavaScript
 * Express
 * Morgan
 * Mongoose
